@@ -22,6 +22,6 @@ Car Race Game is a simple and fun arcade-style game built using Python and Pygam
 - Collect points and compete for the highest score!
 
 ## Credits
-This game was created by [MOHD ANSH].
+This game was created by MOHD ANSH.
 
 
